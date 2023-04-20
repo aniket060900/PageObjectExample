@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-20T23:12:49 IST" name="Default Suite" finished-at="2023-04-20T23:13:05 IST" duration-ms="16702">
+    <groups>
+    </groups>
+    <test started-at="2023-04-20T23:12:49 IST" name="PageObjectExample" finished-at="2023-04-20T23:13:05 IST" duration-ms="16702">
+      <class name="org.example.LoginPageTest">
+        <test-method signature="loginVerification()[pri:0, instance:org.example.LoginPageTest@4c1d9d4b]" started-at="2023-04-20T23:12:49 IST" name="loginVerification" finished-at="2023-04-20T23:13:05 IST" duration-ms="16600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginVerification -->
+      </class> <!-- org.example.LoginPageTest -->
+    </test> <!-- PageObjectExample -->
+  </suite> <!-- Default Suite -->
+</testng-results>
